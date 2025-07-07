@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/312b6eaf-9428-449a-b584-06fb07722762)
 # iPhone 13 Pro Max - Interactive Landing Page
 
 A sleek and interactive landing page for the iPhone 13 Pro Max, built to showcase front-end development skills using pure HTML, CSS, and JavaScript.
